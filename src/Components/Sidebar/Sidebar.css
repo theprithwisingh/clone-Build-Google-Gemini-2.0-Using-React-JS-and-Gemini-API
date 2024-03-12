@@ -19,11 +19,12 @@
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    padding: 10px 5px;
+    padding: 10px 15px;
     background-color: #e6eaf1;
     border-radius: 50px;
     color: grey;
     cursor: pointer;
+    /* border-radius: 50%; */
 }
 .slidebar .recent{
     display: flex;
